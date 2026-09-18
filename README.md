@@ -2,8 +2,10 @@ HJ, 某互联网公司CTO, 九三学社社员，《Java工程师修炼之道》�
 
 - 个人技术博客：<https://rowkey.cn>
 - 微信公众号：后端技术杂谈
+    
+ ![](servertalk-qrcode.png)
 
 ## 我的分享
 
-- 企业 AI-Native
-的落地路径: <https://share.rowkey.cn/slides/ai-native-road>
+- [企业 AI-Native
+的落地路径](https://share.rowkey.cn/slides/ai-native-road)
