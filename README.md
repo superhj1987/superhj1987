@@ -7,4 +7,4 @@ HJ,《Java工程师修炼之道》作者。重度Java使用者，专注于JavaEE
 ## 我的分享
 
 - 企业 AI-Native
-的落地路径: <https://superhj1987.vercel.app/share/ai-native-road>
+的落地路径: <https://superhj1987.vercel.app/slides/ai-native-road>
