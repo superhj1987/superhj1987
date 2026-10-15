@@ -1,7 +1,7 @@
 {
-  "sections": 33,
-  "notes": 33,
-  "toc": 33,
+  "sections": 35,
+  "notes": 35,
+  "toc": 35,
   "assets": [
     {
       "src": "assets/ai-access-estimates.png",
@@ -49,6 +49,16 @@
       "alt": true
     },
     {
+      "src": "assets/sdd-efficiency.png",
+      "loaded": true,
+      "alt": true
+    },
+    {
+      "src": "assets/sdd-quality.png",
+      "loaded": true,
+      "alt": true
+    },
+    {
       "src": "assets/enterprise-agent-platform.png",
       "loaded": true,
       "alt": true
@@ -57,13 +67,8 @@
   "layout": [],
   "navigation": true,
   "tocNavigation": true,
-  "printed": 33,
+  "printed": 35,
   "errors": [],
-  "html_sha256": "f8fbc87cf2e60670d902b21aa43cf2cbb6650aaf57213415f75f8ca239bd21b1",
-  "claude_targeted_checks": {
-    "passed": 6,
-    "total": 6,
-    "model_selection": "CLI default; no --model argument"
-  },
-  "wording_followup": "2026-10-15：第5页两栏均补对应两行解释，恢复底部演讲范围说明；排版、截图与页面功能检查通过。CLI六项复核记录属于此前审查。"
+  "html_sha256": "28956ea3b82bf83b8da2ccf31c90c571d9dc59e08243154d6bad334afc6368cd",
+  "scope": "35页版本，第24–25页采用用户原始截图与摘要；CLI历史复核不覆盖新增两页。"
 }
