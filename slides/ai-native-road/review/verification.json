@@ -1,0 +1,69 @@
+{
+  "sections": 33,
+  "notes": 33,
+  "toc": 33,
+  "assets": [
+    {
+      "src": "assets/ai-access-estimates.png",
+      "loaded": true,
+      "alt": true
+    },
+    {
+      "src": "assets/token-channels.png",
+      "loaded": true,
+      "alt": true
+    },
+    {
+      "src": "assets/token-organization.png",
+      "loaded": true,
+      "alt": true
+    },
+    {
+      "src": "assets/scaffold-source-tree.png",
+      "loaded": true,
+      "alt": true
+    },
+    {
+      "src": "assets/dingtalk-step-1.png",
+      "loaded": true,
+      "alt": true
+    },
+    {
+      "src": "assets/dingtalk-step-2.png",
+      "loaded": true,
+      "alt": true
+    },
+    {
+      "src": "assets/dingtalk-step-3.png",
+      "loaded": true,
+      "alt": true
+    },
+    {
+      "src": "assets/dingtalk-step-4.png",
+      "loaded": true,
+      "alt": true
+    },
+    {
+      "src": "assets/dingtalk-step-5.png",
+      "loaded": true,
+      "alt": true
+    },
+    {
+      "src": "assets/enterprise-agent-platform.png",
+      "loaded": true,
+      "alt": true
+    }
+  ],
+  "layout": [],
+  "navigation": true,
+  "tocNavigation": true,
+  "printed": 33,
+  "errors": [],
+  "html_sha256": "80bd4c3cb617d071c32fae0b52c6502db36773503df5c3d0926d0d2aafc808f3",
+  "claude_targeted_checks": {
+    "passed": 6,
+    "total": 6,
+    "model_selection": "CLI default; no --model argument"
+  },
+  "wording_followup": "2026-10-15：恢复第5页底部演讲范围说明，工程化解释移到左侧对应位置；浏览器检查和截图检查通过。CLI六项复核记录属于此前审查。"
+}
