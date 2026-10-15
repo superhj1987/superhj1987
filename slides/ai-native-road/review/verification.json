@@ -59,11 +59,11 @@
   "tocNavigation": true,
   "printed": 33,
   "errors": [],
-  "html_sha256": "80bd4c3cb617d071c32fae0b52c6502db36773503df5c3d0926d0d2aafc808f3",
+  "html_sha256": "f8fbc87cf2e60670d902b21aa43cf2cbb6650aaf57213415f75f8ca239bd21b1",
   "claude_targeted_checks": {
     "passed": 6,
     "total": 6,
     "model_selection": "CLI default; no --model argument"
   },
-  "wording_followup": "2026-10-15：恢复第5页底部演讲范围说明，工程化解释移到左侧对应位置；浏览器检查和截图检查通过。CLI六项复核记录属于此前审查。"
+  "wording_followup": "2026-10-15：第5页两栏均补对应两行解释，恢复底部演讲范围说明；排版、截图与页面功能检查通过。CLI六项复核记录属于此前审查。"
 }
