@@ -1,7 +1,7 @@
 {
-  "sections": 35,
-  "notes": 35,
-  "toc": 35,
+  "sections": 37,
+  "notes": 37,
+  "toc": 37,
   "assets": [
     {
       "src": "assets/ai-access-estimates.png",
@@ -24,37 +24,22 @@
       "alt": true
     },
     {
-      "src": "assets/dingtalk-step-1.png",
+      "src": "assets/sdd-case-requirement-ready.png",
       "loaded": true,
       "alt": true
     },
     {
-      "src": "assets/dingtalk-step-2.png",
+      "src": "assets/sdd-case-spec-updated.png",
       "loaded": true,
       "alt": true
     },
     {
-      "src": "assets/dingtalk-step-3.png",
+      "src": "assets/sdd-case-delivery-illustration.png",
       "loaded": true,
       "alt": true
     },
     {
-      "src": "assets/dingtalk-step-4.png",
-      "loaded": true,
-      "alt": true
-    },
-    {
-      "src": "assets/dingtalk-step-5.png",
-      "loaded": true,
-      "alt": true
-    },
-    {
-      "src": "assets/sdd-efficiency.png",
-      "loaded": true,
-      "alt": true
-    },
-    {
-      "src": "assets/sdd-quality.png",
+      "src": "assets/sdd-case-acceptance-illustration.png",
       "loaded": true,
       "alt": true
     },
@@ -67,8 +52,47 @@
   "layout": [],
   "navigation": true,
   "tocNavigation": true,
-  "printed": 35,
+  "caseTitles": [
+    "通用规则奖励配置：一次 SDD 对照实践",
+    "编码前，先确认规则与接口约定",
+    "AI 活跃时间持平，成本分布不同",
+    "首版之后，返工具体发生在哪里",
+    "异常测试更完整，独立评审仍有缺口",
+    "规格有维护成本，状态门禁保留完成边界",
+    "需求就绪与规格更新：两次真实通知",
+    "研发交付与验收归档",
+    "本次收益：确认前移，交付边界更清楚"
+  ],
+  "internalLinkRemoved": true,
+  "requirementTwoOnly": true,
+  "numbering": true,
+  "expandedImages": true,
+  "printed": 37,
   "errors": [],
-  "html_sha256": "76d7b6f8a77e316e5dac2da97612ea3b8808cbacdc14a3cda78534f18612232c",
-  "scope": "2026-10-17：第15页补回Agent执行记录支持各方判断后的35页版本；浏览器排版及功能检查通过。CLI历史复核不覆盖后续调整。"
+  "html_sha256": "77be7f3a539bf2f8c4077c20d2572c202f92dd618e4678ab953e22141f02c948",
+  "date": "2026-10-20",
+  "scope": "此前37页完整浏览器检查通过；本次仅修改第26页文案，定向验证两图加载与放大链接、页面说明移除和页脚边界，并目视确认排版。未重新执行全套或Claude CLI检查。 第35页另定向检查来源与协作方式文案、备注、页脚边界，并目视确认排版。",
+  "page26CopyCheck": {
+    "page": 26,
+    "images": [
+      {
+        "src": "assets/sdd-case-delivery-illustration.png",
+        "loaded": true,
+        "linked": true
+      },
+      {
+        "src": "assets/sdd-case-acceptance-illustration.png",
+        "loaded": true,
+        "linked": true
+      }
+    ],
+    "explanationsRemoved": true,
+    "footerClear": true
+  },
+  "page35CopyCheck": {
+    "sourceUpdated": true,
+    "taskBasedCollaboration": true,
+    "footerClear": true,
+    "visualChecked": true
+  }
 }
