@@ -246,3 +246,12 @@ claude -p --tools '' --strict-mcp-config --output-format json < review-input.txt
 总页数37→38，后续页码、aria标签、目录和备注一并同步，实践02范围更新为第19–28页。原第17页保留标签、标题与内容。
 
 验证：38页、备注、目录与打印页数一致，10张引用图片加载、alt、全页页脚边界与页码、目录跳转、键盘翻页、备注、大图实际打开和JavaScript检查通过。第19–21页截图逐页目视检查通过；git diff --check通过。本轮未调用Claude CLI；未提交或推送。
+
+
+## 2026-10-21 按附件恢复第27页通知内容并统一编号
+
+第26–27页截图上方标题统一为01 / 新需求已就绪、02 / 需求规格已更新、03 / 研发交付待验收、04 / 验收完成并归档。按本次用户附件重新编辑第27页两图，使用内置imagegen替换capability为activity-management、Change为add-general-activity-rule-rewards，并同步正文及路径中的同一标识。沿用人员、项目、账号、分支的脱敏要求；原附件日期、Commit、任务数、交付摘要及验收正文保留，不再使用上一版待填写字段。生成图文本经过目视核对，并校正交付图末尾被模型改写的下一步文字；生成过程有字号、换行和分辨率变化，不是逐像素替换。
+
+两张图替换同名资产sdd-case-delivery-illustration.png、sdd-case-acceptance-illustration.png；原附件属于不同需求，其保留的版本、任务数与结果不作为当前需求的独立证据，来源记录在第27页讲稿备注中。完整编辑提示词见notice-attachment-edit-prompts.md。
+
+验证：38页、备注、目录、页码与打印一致，图片加载、全页边界、目录与翻页、JavaScript检查通过。第26–27页及两张生成图片目视检查通过，git diff --check通过。未提交或推送。
